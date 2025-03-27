@@ -20,26 +20,7 @@
   --> Exit System: Shut down the application via an API endpoint.
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-- Project Structure :
-    DigitalLibraryBookManagementSystem
-    │── src/main/java/DigitalLibraryBookManagementSystem
-    │   ├── Controller
-    │   │   ├── BookController.java
-    │   │   ├── SystemController.java
-    │   ├── Service
-    │   │   ├── BookService.java
-    │   ├── Repository
-    │   │   ├── BookRepository.java
-    │   ├── Entity
-    │   │   ├── Book.java
-    │   ├── DTO
-    │   │   ├── BookDTO.java
-    │   │   ├── BookListDTO.java
-    │   │   ├── SearchBookDTO.java
-    │── pom.xml
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+ 
 - Technologies Used :
 
   --> Java (Spring Boot): Backend framework for building RESTful APIs.
